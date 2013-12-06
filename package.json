@@ -1,0 +1,33 @@
+{
+    "name": "isabspath",
+    "description": "Return true if path is an absolute pathname. On Unix, that means it begins with a slash, on Windows that it begins with a (back)slash after chopping off a potential drive letter.",
+    "version": "0.1.0",
+    "homepage": "https://github.com/yuanyan/node-isabspath",
+    "author": {
+        "name": "yuanyan",
+        "url": "https://github.com/yuanyan"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/yuanyan/node-isabspath.git"
+    },
+    "bugs": {
+        "url": "https://github.com/yuanyan/node-isabspath/issues"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/yuanyan/node-isabspath/blob/master/MIT-LICENSE.txt"
+        }
+    ],
+    "engines": {
+        "node": ">= 0.6.0"
+    },
+    "scripts": {
+    },
+    "dependencies": {
+    },
+    "devDependencies": {
+    },
+    "keywords": ["isabspath", "path"]
+}
